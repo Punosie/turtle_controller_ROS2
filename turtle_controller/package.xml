@@ -7,7 +7,9 @@
   <maintainer email="shubhankar.kaushik2003@gmail.com">shubhabha</maintainer>
   <license>TODO: License declaration</license>
 
+  <depend>rclpy</depend>
   <depend>turtlesim</depend>
+  <depend>geometry_msgs</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
