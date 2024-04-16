@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             "draw_circle = turtle_controller.draw_circle:main",
+            "avoid_wall = turtle_controller.avoid_wall:main"
         ],
     },
 )
